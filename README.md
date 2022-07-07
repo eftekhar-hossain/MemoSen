@@ -16,7 +16,7 @@
 
 
 ## System Overview
-Figure 2 presents the schematic diagram of our proposed system, which has three major phases: visual feature extractor, textual feature extractor, and deep level fusion.
+Figure presents the schematic diagram of our proposed system, which has three major phases: visual feature extractor, textual feature extractor, and multimodal fusion.
 <img title="" src="memosen-block.PNG" alt="">
 
 
