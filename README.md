@@ -11,7 +11,7 @@
 
 ## Contribution
 - Created the MemoSen, a multimodal sentiment analysis dataset for Bengali consisting of 4368 memes annotated with Positive, Negative, Neutral labels.
-- Performed extensive experiments with state-ofthe-art visual and textual models and then synergistically integrated features of both modalities by utilizing different multimodal fusion approaches.
+- Performed extensive experiments with state-of the-art visual and textual models and then synergistically integrated features of both modalities by utilizing different multimodal fusion approaches.
 
 
 
