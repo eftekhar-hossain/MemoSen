@@ -6,7 +6,7 @@
 
  [**Paper Link:**](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.165.pdf)
 
-**Dataset will be released soon**
+ [**Dataset**](https://drive.google.com/file/d/12jxFuMz7jtE1kN9fi1ckspgHcKZhkT_B/view?usp=share_link)
 
 
 ## Contribution
